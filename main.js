@@ -8,3 +8,4 @@ function chau () {
 	alert ("Adios");
 }
 
+/*comentario para aclarar*/
